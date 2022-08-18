@@ -29,17 +29,17 @@
 
 | Título | Descripción|datos validos | Comentarios |
 |:-------------------:|---|---|---|
-|gdp|Total real gross domestic product, inflation-adjusted| 0.49 ||
-|coal_prod_change_pct|Annual percentage change in coal production| 0.44 ||
-|energy_per_capita|Primary energy consumption per capita| 0.46 |medida en kilovatios-hora|
-|hydro_electricity|Electricity generation from hydropower| 0.41 |medido en teravatios-hora|
-|low_carbon_electricity|Electricity generation from low-carbon sources| 0.41 |medido en teravatios-hora|
-|nuclear_electricity|Electricity generation from nuclear power| 0.39 |medido en teravatios-hora|
-|oil_prod_change_pct|Annual percentage change in oil production| 0.46 ||
-|other_renewable_electricity|Electricity generation from other renewable sources including biofuels| 0.4 |medido en teravatios-hora|
-|renewables_electricity|Electricity generation from renewables| 0.4 |medido en teravatios-hora|
-|solar_electricity|Electricity generation from solar| 0.4 |medido en teravatios-hora|
-|wind_electricity|Electricity generation from wind|0.4 |medido en teravatios-hora |
+|gdp|Producto interno bruto real total| 0.49 |ajustado por inflación|
+|coal_prod_change_pct|Cambio porcentual anual en la producción de carbón| 0.44 ||
+|energy_per_capita|Consumo de energía primaria per cápita| 0.46 |medida en kilovatios-hora|
+|hydro_electricity|Generación de electricidad a partir de energía hidroeléctrica| 0.41 |medido en teravatios-hora|
+|low_carbon_electricity|Generación de electricidad a partir de fuentes bajas en carbono| 0.41 |medido en teravatios-hora|
+|nuclear_electricity|Generación de electricidad a partir de la energía nuclear| 0.39 |medido en teravatios-hora|
+|oil_prod_change_pct|Cambio porcentual anual en la producción de petróleo| 0.46 ||
+|other_renewable_electricity|Generación de electricidad a partir de otras fuentes renovables, incluidos los biocombustibles| 0.4 |medido en teravatios-hora|
+|renewables_electricity|Generación de electricidad a partir de renovables| 0.4 |medido en teravatios-hora|
+|solar_electricity|Generación de electricidad a partir de energía solar.| 0.4 |medido en teravatios-hora|
+|wind_electricity|Generación de electricidad a partir del viento|0.4 |medido en teravatios-hora |
 
 <br>
 <br>
