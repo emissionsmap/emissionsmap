@@ -1,6 +1,7 @@
 CUENTA AWS:
 	Usuario: Grupo12
 	Contraseña: svJmrK^P@EZUS7
+	mail: labs.henry.12@gmail.com
 
 Base de datos (si crean otra base de datos usen el mismo usuario y contraseña. El host lo genera solo.):
 	Usuario:root
