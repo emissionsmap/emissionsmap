@@ -1,0 +1,699 @@
+,Id,País,País Largo,Combustible Principal,cant
+0,1f081645bd0,AFG,Afghanistan,Hydro,1
+1,1f081645bd0,AFG,Afghanistan,Solar,1
+2,1f081645bd0,AFG,Afghanistan,Gas,1
+3,1f081645bd0,ALB,Albania,Hydro,1
+4,1f081645bd0,ALB,Albania,Other,1
+5,1f081645bd0,DZA,Algeria,Solar,1
+6,1f081645bd0,DZA,Algeria,Gas,1
+7,1f081645bd0,DZA,Algeria,Hydro,1
+8,1f081645bd0,AGO,Angola,Oil,1
+9,1f081645bd0,AGO,Angola,Hydro,1
+10,1f081645bd0,AGO,Angola,Gas,1
+11,1f081645bd0,ATA,Antarctica,Oil,1
+12,1f081645bd0,ATA,Antarctica,Wind,1
+13,1f081645bd0,ARG,Argentina,Other,1
+14,1f081645bd0,ARG,Argentina,Gas,1
+15,1f081645bd0,ARG,Argentina,Hydro,1
+16,1f081645bd0,ARG,Argentina,Oil,1
+17,1f081645bd0,ARG,Argentina,Nuclear,1
+18,1f081645bd0,ARG,Argentina,Coal,1
+19,1f081645bd0,ARG,Argentina,Solar,1
+20,1f081645bd0,ARG,Argentina,Wind,1
+21,1f081645bd0,ARM,Armenia,Nuclear,1
+22,1f081645bd0,ARM,Armenia,Gas,1
+23,1f081645bd0,ARM,Armenia,Hydro,1
+24,1f081645bd0,AUS,Australia,Solar,1
+25,1f081645bd0,AUS,Australia,Wind,1
+26,1f081645bd0,AUS,Australia,Oil,1
+27,1f081645bd0,AUS,Australia,Coal,1
+28,1f081645bd0,AUS,Australia,Gas,1
+29,1f081645bd0,AUS,Australia,Hydro,1
+30,1f081645bd0,AUS,Australia,Waste,1
+31,1f081645bd0,AUS,Australia,Biomass,1
+32,1f081645bd0,AUT,Austria,Hydro,1
+33,1f081645bd0,AUT,Austria,Gas,1
+34,1f081645bd0,AUT,Austria,Wind,1
+35,1f081645bd0,AZE,Azerbaijan,Gas,1
+36,1f081645bd0,AZE,Azerbaijan,Oil,1
+37,1f081645bd0,AZE,Azerbaijan,Hydro,1
+38,1f081645bd0,BHR,Bahrain,Gas,1
+39,1f081645bd0,BHR,Bahrain,Solar,1
+40,1f081645bd0,BHR,Bahrain,Oil,1
+41,1f081645bd0,BGD,Bangladesh,Oil,1
+42,1f081645bd0,BGD,Bangladesh,Gas,1
+43,1f081645bd0,BGD,Bangladesh,Coal,1
+44,1f081645bd0,BGD,Bangladesh,Solar,1
+45,1f081645bd0,BGD,Bangladesh,Hydro,1
+46,1f081645bd0,BLR,Belarus,Gas,1
+47,1f081645bd0,BLR,Belarus,Solar,1
+48,1f081645bd0,BEL,Belgium,Oil,1
+49,1f081645bd0,BEL,Belgium,Gas,1
+50,1f081645bd0,BEL,Belgium,Biomass,1
+51,1f081645bd0,BEL,Belgium,Wind,1
+52,1f081645bd0,BEL,Belgium,Hydro,1
+53,1f081645bd0,BEL,Belgium,Waste,1
+54,1f081645bd0,BEL,Belgium,Nuclear,1
+55,1f081645bd0,BEL,Belgium,Solar,1
+56,1f081645bd0,BEL,Belgium,Coal,1
+57,1f081645bd0,BEN,Benin,Gas,1
+58,1f081645bd0,BEN,Benin,Oil,1
+59,1f081645bd0,BTN,Bhutan,Hydro,1
+60,1f081645bd0,BOL,Bolivia,Gas,1
+61,1f081645bd0,BOL,Bolivia,Hydro,1
+62,1f081645bd0,BOL,Bolivia,Solar,1
+63,1f081645bd0,BIH,Bosnia and Herzegovina,Hydro,1
+64,1f081645bd0,BIH,Bosnia and Herzegovina,Coal,1
+65,1f081645bd0,BWA,Botswana,Coal,1
+66,1f081645bd0,BRA,Brazil,Hydro,1
+67,1f081645bd0,BRA,Brazil,Oil,1
+68,1f081645bd0,BRA,Brazil,Biomass,1
+69,1f081645bd0,BRA,Brazil,Gas,1
+70,1f081645bd0,BRA,Brazil,Wind,1
+71,1f081645bd0,BRA,Brazil,Nuclear,1
+72,1f081645bd0,BRA,Brazil,Coal,1
+73,1f081645bd0,BRA,Brazil,Waste,1
+74,1f081645bd0,BRA,Brazil,Solar,1
+75,1f081645bd0,BRA,Brazil,Other,1
+76,1f081645bd0,BRN,Brunei Darussalam,Gas,1
+77,1f081645bd0,BGR,Bulgaria,Coal,1
+78,1f081645bd0,BGR,Bulgaria,Solar,1
+79,1f081645bd0,BGR,Bulgaria,Hydro,1
+80,1f081645bd0,BGR,Bulgaria,Nuclear,1
+81,1f081645bd0,BGR,Bulgaria,Wind,1
+82,1f081645bd0,BFA,Burkina Faso,Hydro,1
+83,1f081645bd0,BFA,Burkina Faso,Oil,1
+84,1f081645bd0,BFA,Burkina Faso,Solar,1
+85,1f081645bd0,BDI,Burundi,Hydro,1
+86,1f081645bd0,BDI,Burundi,Solar,1
+87,1f081645bd0,KHM,Cambodia,Biomass,1
+88,1f081645bd0,KHM,Cambodia,Solar,1
+89,1f081645bd0,KHM,Cambodia,Hydro,1
+90,1f081645bd0,KHM,Cambodia,Oil,1
+91,1f081645bd0,KHM,Cambodia,Waste,1
+92,1f081645bd0,KHM,Cambodia,Coal,1
+93,1f081645bd0,CMR,Cameroon,Oil,1
+94,1f081645bd0,CMR,Cameroon,Hydro,1
+95,1f081645bd0,CMR,Cameroon,Gas,1
+96,1f081645bd0,CAN,Canada,Solar,1
+97,1f081645bd0,CAN,Canada,Hydro,1
+98,1f081645bd0,CAN,Canada,Wind,1
+99,1f081645bd0,CAN,Canada,Biomass,1
+100,1f081645bd0,CAN,Canada,Gas,1
+101,1f081645bd0,CAN,Canada,Wave and Tidal,1
+102,1f081645bd0,CAN,Canada,Coal,1
+103,1f081645bd0,CAN,Canada,Nuclear,1
+104,1f081645bd0,CAN,Canada,Oil,1
+105,1f081645bd0,CAN,Canada,Other,1
+106,1f081645bd0,CPV,Cape Verde,Oil,1
+107,1f081645bd0,CPV,Cape Verde,Solar,1
+108,1f081645bd0,CAF,Central African Republic,Oil,1
+109,1f081645bd0,CAF,Central African Republic,Hydro,1
+110,1f081645bd0,CHL,Chile,Hydro,1
+111,1f081645bd0,CHL,Chile,Oil,1
+112,1f081645bd0,CHL,Chile,Wind,1
+113,1f081645bd0,CHL,Chile,Gas,1
+114,1f081645bd0,CHL,Chile,Solar,1
+115,1f081645bd0,CHL,Chile,Biomass,1
+116,1f081645bd0,CHL,Chile,Coal,1
+117,1f081645bd0,CHL,Chile,Petcoke,1
+118,1f081645bd0,CHN,China,Coal,1
+119,1f081645bd0,CHN,China,Hydro,1
+120,1f081645bd0,CHN,China,Wind,1
+121,1f081645bd0,CHN,China,Solar,1
+122,1f081645bd0,CHN,China,Gas,1
+123,1f081645bd0,CHN,China,Nuclear,1
+124,1f081645bd0,CHN,China,Oil,1
+125,1f081645bd0,CHN,China,Geothermal,1
+126,1f081645bd0,COL,Colombia,Hydro,1
+127,1f081645bd0,COL,Colombia,Oil,1
+128,1f081645bd0,COL,Colombia,Solar,1
+129,1f081645bd0,COL,Colombia,Coal,1
+130,1f081645bd0,COL,Colombia,Gas,1
+131,1f081645bd0,COG,Congo,Gas,1
+132,1f081645bd0,COG,Congo,Hydro,1
+133,1f081645bd0,COG,Congo,Oil,1
+134,1f081645bd0,CRI,Costa Rica,Hydro,1
+135,1f081645bd0,CRI,Costa Rica,Geothermal,1
+136,1f081645bd0,CRI,Costa Rica,Solar,1
+137,1f081645bd0,CRI,Costa Rica,Oil,1
+138,1f081645bd0,CIV,Cote DIvoire,Hydro,1
+139,1f081645bd0,CIV,Cote DIvoire,Gas,1
+140,1f081645bd0,HRV,Croatia,Hydro,1
+141,1f081645bd0,HRV,Croatia,Gas,1
+142,1f081645bd0,HRV,Croatia,Coal,1
+143,1f081645bd0,HRV,Croatia,Oil,1
+144,1f081645bd0,CUB,Cuba,Oil,1
+145,1f081645bd0,CUB,Cuba,Gas,1
+146,1f081645bd0,CUB,Cuba,Wind,1
+147,1f081645bd0,CUB,Cuba,Solar,1
+148,1f081645bd0,CYP,Cyprus,Oil,1
+149,1f081645bd0,CYP,Cyprus,Gas,1
+150,1f081645bd0,CZE,Czech Republic,Solar,1
+151,1f081645bd0,CZE,Czech Republic,Coal,1
+152,1f081645bd0,CZE,Czech Republic,Hydro,1
+153,1f081645bd0,CZE,Czech Republic,Nuclear,1
+154,1f081645bd0,CZE,Czech Republic,Gas,1
+155,1f081645bd0,COD,Democratic Republic of the Congo,Gas,1
+156,1f081645bd0,COD,Democratic Republic of the Congo,Hydro,1
+157,1f081645bd0,COD,Democratic Republic of the Congo,Oil,1
+158,1f081645bd0,DNK,Denmark,Solar,1
+159,1f081645bd0,DNK,Denmark,Geothermal,1
+160,1f081645bd0,DNK,Denmark,Coal,1
+161,1f081645bd0,DNK,Denmark,Wind,1
+162,1f081645bd0,DNK,Denmark,Gas,1
+163,1f081645bd0,DNK,Denmark,Biomass,1
+164,1f081645bd0,DNK,Denmark,Oil,1
+165,1f081645bd0,DJI,Djibouti,Oil,1
+166,1f081645bd0,DOM,Dominican Republic,Gas,1
+167,1f081645bd0,DOM,Dominican Republic,Coal,1
+168,1f081645bd0,DOM,Dominican Republic,Solar,1
+169,1f081645bd0,DOM,Dominican Republic,Oil,1
+170,1f081645bd0,DOM,Dominican Republic,Hydro,1
+171,1f081645bd0,DOM,Dominican Republic,Wind,1
+172,1f081645bd0,ECU,Ecuador,Hydro,1
+173,1f081645bd0,ECU,Ecuador,Gas,1
+174,1f081645bd0,ECU,Ecuador,Oil,1
+175,1f081645bd0,ECU,Ecuador,Solar,1
+176,1f081645bd0,EGY,Egypt,Gas,1
+177,1f081645bd0,EGY,Egypt,Oil,1
+178,1f081645bd0,EGY,Egypt,Hydro,1
+179,1f081645bd0,EGY,Egypt,Solar,1
+180,1f081645bd0,EGY,Egypt,Wind,1
+181,1f081645bd0,SLV,El Salvador,Hydro,1
+182,1f081645bd0,SLV,El Salvador,Oil,1
+183,1f081645bd0,SLV,El Salvador,Geothermal,1
+184,1f081645bd0,SLV,El Salvador,Solar,1
+185,1f081645bd0,GNQ,Equatorial Guinea,Gas,1
+186,1f081645bd0,GNQ,Equatorial Guinea,Hydro,1
+187,1f081645bd0,ERI,Eritrea,Oil,1
+188,1f081645bd0,EST,Estonia,Wind,1
+189,1f081645bd0,EST,Estonia,Oil,1
+190,1f081645bd0,EST,Estonia,Gas,1
+191,1f081645bd0,ETH,Ethiopia,Wind,1
+192,1f081645bd0,ETH,Ethiopia,Geothermal,1
+193,1f081645bd0,ETH,Ethiopia,Hydro,1
+194,1f081645bd0,FJI,Fiji,Wind,1
+195,1f081645bd0,FJI,Fiji,Oil,1
+196,1f081645bd0,FJI,Fiji,Biomass,1
+197,1f081645bd0,FJI,Fiji,Hydro,1
+198,1f081645bd0,FIN,Finland,Hydro,1
+199,1f081645bd0,FIN,Finland,Oil,1
+200,1f081645bd0,FIN,Finland,Biomass,1
+201,1f081645bd0,FIN,Finland,Gas,1
+202,1f081645bd0,FIN,Finland,Coal,1
+203,1f081645bd0,FIN,Finland,Wind,1
+204,1f081645bd0,FIN,Finland,Nuclear,1
+205,1f081645bd0,FIN,Finland,Other,1
+206,1f081645bd0,FRA,France,Oil,1
+207,1f081645bd0,FRA,France,Hydro,1
+208,1f081645bd0,FRA,France,Wind,1
+209,1f081645bd0,FRA,France,Solar,1
+210,1f081645bd0,FRA,France,Biomass,1
+211,1f081645bd0,FRA,France,Nuclear,1
+212,1f081645bd0,FRA,France,Gas,1
+213,1f081645bd0,FRA,France,Geothermal,1
+214,1f081645bd0,FRA,France,Coal,1
+215,1f081645bd0,FRA,France,Wave and Tidal,1
+216,1f081645bd0,GUF,French Guiana,Gas,1
+217,1f081645bd0,GUF,French Guiana,Oil,1
+218,1f081645bd0,GUF,French Guiana,Biomass,1
+219,1f081645bd0,GUF,French Guiana,Hydro,1
+220,1f081645bd0,GUF,French Guiana,Solar,1
+221,1f081645bd0,GAB,Gabon,Hydro,1
+222,1f081645bd0,GAB,Gabon,Gas,1
+223,1f081645bd0,GAB,Gabon,Oil,1
+224,1f081645bd0,GMB,Gambia,Oil,1
+225,1f081645bd0,GEO,Georgia,Hydro,1
+226,1f081645bd0,GEO,Georgia,Gas,1
+227,1f081645bd0,DEU,Germany,Gas,1
+228,1f081645bd0,DEU,Germany,Waste,1
+229,1f081645bd0,DEU,Germany,Solar,1
+230,1f081645bd0,DEU,Germany,Coal,1
+231,1f081645bd0,DEU,Germany,Hydro,1
+232,1f081645bd0,DEU,Germany,Wind,1
+233,1f081645bd0,DEU,Germany,Oil,1
+234,1f081645bd0,DEU,Germany,Biomass,1
+235,1f081645bd0,DEU,Germany,Nuclear,1
+236,1f081645bd0,DEU,Germany,Other,1
+237,1f081645bd0,GHA,Ghana,Hydro,1
+238,1f081645bd0,GHA,Ghana,Solar,1
+239,1f081645bd0,GHA,Ghana,Gas,1
+240,1f081645bd0,GRC,Greece,Solar,1
+241,1f081645bd0,GRC,Greece,Coal,1
+242,1f081645bd0,GRC,Greece,Gas,1
+243,1f081645bd0,GRC,Greece,Waste,1
+244,1f081645bd0,GRC,Greece,Hydro,1
+245,1f081645bd0,GRC,Greece,Oil,1
+246,1f081645bd0,GRC,Greece,Wind,1
+247,1f081645bd0,GTM,Guatemala,Hydro,1
+248,1f081645bd0,GTM,Guatemala,Oil,1
+249,1f081645bd0,GTM,Guatemala,Biomass,1
+250,1f081645bd0,GTM,Guatemala,Coal,1
+251,1f081645bd0,GTM,Guatemala,Solar,1
+252,1f081645bd0,GTM,Guatemala,Waste,1
+253,1f081645bd0,GTM,Guatemala,Geothermal,1
+254,1f081645bd0,GTM,Guatemala,Wind,1
+255,1f081645bd0,GIN,Guinea,Hydro,1
+256,1f081645bd0,GIN,Guinea,Oil,1
+257,1f081645bd0,GNB,Guinea-Bissau,Oil,1
+258,1f081645bd0,GUY,Guyana,Oil,1
+259,1f081645bd0,GUY,Guyana,Biomass,1
+260,1f081645bd0,HND,Honduras,Solar,1
+261,1f081645bd0,HND,Honduras,Biomass,1
+262,1f081645bd0,HND,Honduras,Hydro,1
+263,1f081645bd0,HND,Honduras,Wind,1
+264,1f081645bd0,HND,Honduras,Waste,1
+265,1f081645bd0,HND,Honduras,Oil,1
+266,1f081645bd0,HND,Honduras,Gas,1
+267,1f081645bd0,HND,Honduras,Geothermal,1
+268,1f081645bd0,HUN,Hungary,Gas,1
+269,1f081645bd0,HUN,Hungary,Coal,1
+270,1f081645bd0,HUN,Hungary,Solar,1
+271,1f081645bd0,HUN,Hungary,Oil,1
+272,1f081645bd0,HUN,Hungary,Nuclear,1
+273,1f081645bd0,ISL,Iceland,Hydro,1
+274,1f081645bd0,ISL,Iceland,Geothermal,1
+275,1f081645bd0,IND,India,Solar,1
+276,1f081645bd0,IND,India,Coal,1
+277,1f081645bd0,IND,India,Wind,1
+278,1f081645bd0,IND,India,Gas,1
+279,1f081645bd0,IND,India,Hydro,1
+280,1f081645bd0,IND,India,Biomass,1
+281,1f081645bd0,IND,India,Oil,1
+282,1f081645bd0,IND,India,Nuclear,1
+283,1f081645bd0,IDN,Indonesia,Coal,1
+284,1f081645bd0,IDN,Indonesia,Oil,1
+285,1f081645bd0,IDN,Indonesia,Hydro,1
+286,1f081645bd0,IDN,Indonesia,Geothermal,1
+287,1f081645bd0,IDN,Indonesia,Gas,1
+288,1f081645bd0,IRN,Iran,Gas,1
+289,1f081645bd0,IRN,Iran,Oil,1
+290,1f081645bd0,IRN,Iran,Hydro,1
+291,1f081645bd0,IRN,Iran,Solar,1
+292,1f081645bd0,IRN,Iran,Nuclear,1
+293,1f081645bd0,IRN,Iran,Wind,1
+294,1f081645bd0,IRQ,Iraq,Hydro,1
+295,1f081645bd0,IRQ,Iraq,Gas,1
+296,1f081645bd0,IRQ,Iraq,Oil,1
+297,1f081645bd0,IRL,Ireland,Gas,1
+298,1f081645bd0,IRL,Ireland,Wind,1
+299,1f081645bd0,IRL,Ireland,Hydro,1
+300,1f081645bd0,IRL,Ireland,Oil,1
+301,1f081645bd0,IRL,Ireland,Coal,1
+302,1f081645bd0,IRL,Ireland,Biomass,1
+303,1f081645bd0,ISR,Israel,Gas,1
+304,1f081645bd0,ISR,Israel,Solar,1
+305,1f081645bd0,ISR,Israel,Wind,1
+306,1f081645bd0,ISR,Israel,Coal,1
+307,1f081645bd0,ITA,Italy,Hydro,1
+308,1f081645bd0,ITA,Italy,Other,1
+309,1f081645bd0,ITA,Italy,Solar,1
+310,1f081645bd0,ITA,Italy,Gas,1
+311,1f081645bd0,ITA,Italy,Oil,1
+312,1f081645bd0,ITA,Italy,Coal,1
+313,1f081645bd0,ITA,Italy,Geothermal,1
+314,1f081645bd0,ITA,Italy,Wind,1
+315,1f081645bd0,JAM,Jamaica,Gas,1
+316,1f081645bd0,JAM,Jamaica,Solar,1
+317,1f081645bd0,JAM,Jamaica,Oil,1
+318,1f081645bd0,JAM,Jamaica,Hydro,1
+319,1f081645bd0,JAM,Jamaica,Wind,1
+320,1f081645bd0,JPN,Japan,Solar,1
+321,1f081645bd0,JPN,Japan,Oil,1
+322,1f081645bd0,JPN,Japan,Wind,1
+323,1f081645bd0,JPN,Japan,Hydro,1
+324,1f081645bd0,JPN,Japan,Gas,1
+325,1f081645bd0,JPN,Japan,Nuclear,1
+326,1f081645bd0,JPN,Japan,Waste,1
+327,1f081645bd0,JPN,Japan,Coal,1
+328,1f081645bd0,JPN,Japan,Geothermal,1
+329,1f081645bd0,JOR,Jordan,Solar,1
+330,1f081645bd0,JOR,Jordan,Gas,1
+331,1f081645bd0,JOR,Jordan,Oil,1
+332,1f081645bd0,KAZ,Kazakhstan,Coal,1
+333,1f081645bd0,KAZ,Kazakhstan,Gas,1
+334,1f081645bd0,KAZ,Kazakhstan,Solar,1
+335,1f081645bd0,KAZ,Kazakhstan,Hydro,1
+336,1f081645bd0,KEN,Kenya,Solar,1
+337,1f081645bd0,KEN,Kenya,Hydro,1
+338,1f081645bd0,KEN,Kenya,Oil,1
+339,1f081645bd0,KEN,Kenya,Wind,1
+340,1f081645bd0,KEN,Kenya,Geothermal,1
+341,1f081645bd0,KOS,Kosovo,Coal,1
+342,1f081645bd0,KWT,Kuwait,Gas,1
+343,1f081645bd0,KWT,Kuwait,Solar,1
+344,1f081645bd0,KGZ,Kyrgyzstan,Hydro,1
+345,1f081645bd0,KGZ,Kyrgyzstan,Coal,1
+346,1f081645bd0,KGZ,Kyrgyzstan,Oil,1
+347,1f081645bd0,LAO,Laos,Coal,1
+348,1f081645bd0,LAO,Laos,Hydro,1
+349,1f081645bd0,LVA,Latvia,Hydro,1
+350,1f081645bd0,LVA,Latvia,Gas,1
+351,1f081645bd0,LBN,Lebanon,Oil,1
+352,1f081645bd0,LBN,Lebanon,Gas,1
+353,1f081645bd0,LSO,Lesotho,Hydro,1
+354,1f081645bd0,LBR,Liberia,Oil,1
+355,1f081645bd0,LBR,Liberia,Hydro,1
+356,1f081645bd0,LBY,Libya,Gas,1
+357,1f081645bd0,LBY,Libya,Oil,1
+358,1f081645bd0,LTU,Lithuania,Gas,1
+359,1f081645bd0,LTU,Lithuania,Hydro,1
+360,1f081645bd0,LUX,Luxembourg,Gas,1
+361,1f081645bd0,LUX,Luxembourg,Hydro,1
+362,1f081645bd0,MKD,Macedonia,Coal,1
+363,1f081645bd0,MKD,Macedonia,Hydro,1
+364,1f081645bd0,MDG,Madagascar,Solar,1
+365,1f081645bd0,MDG,Madagascar,Coal,1
+366,1f081645bd0,MDG,Madagascar,Oil,1
+367,1f081645bd0,MDG,Madagascar,Hydro,1
+368,1f081645bd0,MDG,Madagascar,Gas,1
+369,1f081645bd0,MWI,Malawi,Gas,1
+370,1f081645bd0,MWI,Malawi,Hydro,1
+371,1f081645bd0,MWI,Malawi,Biomass,1
+372,1f081645bd0,MYS,Malaysia,Hydro,1
+373,1f081645bd0,MYS,Malaysia,Solar,1
+374,1f081645bd0,MYS,Malaysia,Gas,1
+375,1f081645bd0,MYS,Malaysia,Coal,1
+376,1f081645bd0,MYS,Malaysia,Oil,1
+377,1f081645bd0,MYS,Malaysia,Biomass,1
+378,1f081645bd0,MLI,Mali,Hydro,1
+379,1f081645bd0,MRT,Mauritania,Oil,1
+380,1f081645bd0,MRT,Mauritania,Gas,1
+381,1f081645bd0,MRT,Mauritania,Solar,1
+382,1f081645bd0,MRT,Mauritania,Wind,1
+383,1f081645bd0,MUS,Mauritius,Solar,1
+384,1f081645bd0,MUS,Mauritius,Coal,1
+385,1f081645bd0,MUS,Mauritius,Hydro,1
+386,1f081645bd0,MUS,Mauritius,Biomass,1
+387,1f081645bd0,MUS,Mauritius,Oil,1
+388,1f081645bd0,MEX,Mexico,Oil,1
+389,1f081645bd0,MEX,Mexico,Solar,1
+390,1f081645bd0,MEX,Mexico,Hydro,1
+391,1f081645bd0,MEX,Mexico,Gas,1
+392,1f081645bd0,MEX,Mexico,Biomass,1
+393,1f081645bd0,MEX,Mexico,Wind,1
+394,1f081645bd0,MEX,Mexico,Coal,1
+395,1f081645bd0,MEX,Mexico,Geothermal,1
+396,1f081645bd0,MEX,Mexico,Nuclear,1
+397,1f081645bd0,MDA,Moldova,Gas,1
+398,1f081645bd0,MDA,Moldova,Hydro,1
+399,1f081645bd0,MDA,Moldova,Coal,1
+400,1f081645bd0,MNG,Mongolia,Solar,1
+401,1f081645bd0,MNG,Mongolia,Coal,1
+402,1f081645bd0,MNG,Mongolia,Wind,1
+403,1f081645bd0,MNE,Montenegro,Hydro,1
+404,1f081645bd0,MNE,Montenegro,Coal,1
+405,1f081645bd0,MAR,Morocco,Hydro,1
+406,1f081645bd0,MAR,Morocco,Gas,1
+407,1f081645bd0,MAR,Morocco,Solar,1
+408,1f081645bd0,MAR,Morocco,Wind,1
+409,1f081645bd0,MAR,Morocco,Oil,1
+410,1f081645bd0,MAR,Morocco,Coal,1
+411,1f081645bd0,MOZ,Mozambique,Hydro,1
+412,1f081645bd0,MMR,Myanmar,Gas,1
+413,1f081645bd0,MMR,Myanmar,Hydro,1
+414,1f081645bd0,MMR,Myanmar,Coal,1
+415,1f081645bd0,MMR,Myanmar,Solar,1
+416,1f081645bd0,NAM,Namibia,Oil,1
+417,1f081645bd0,NAM,Namibia,Solar,1
+418,1f081645bd0,NAM,Namibia,Hydro,1
+419,1f081645bd0,NAM,Namibia,Coal,1
+420,1f081645bd0,NPL,Nepal,Hydro,1
+421,1f081645bd0,NPL,Nepal,Solar,1
+422,1f081645bd0,NLD,Netherlands,Solar,1
+423,1f081645bd0,NLD,Netherlands,Wind,1
+424,1f081645bd0,NLD,Netherlands,Nuclear,1
+425,1f081645bd0,NLD,Netherlands,Gas,1
+426,1f081645bd0,NLD,Netherlands,Coal,1
+427,1f081645bd0,NZL,New Zealand,Hydro,1
+428,1f081645bd0,NZL,New Zealand,Wind,1
+429,1f081645bd0,NZL,New Zealand,Gas,1
+430,1f081645bd0,NZL,New Zealand,Coal,1
+431,1f081645bd0,NZL,New Zealand,Geothermal,1
+432,1f081645bd0,NZL,New Zealand,Oil,1
+433,1f081645bd0,NIC,Nicaragua,Oil,1
+434,1f081645bd0,NIC,Nicaragua,Hydro,1
+435,1f081645bd0,NIC,Nicaragua,Gas,1
+436,1f081645bd0,NIC,Nicaragua,Geothermal,1
+437,1f081645bd0,NIC,Nicaragua,Waste,1
+438,1f081645bd0,NIC,Nicaragua,Solar,1
+439,1f081645bd0,NER,Niger,Coal,1
+440,1f081645bd0,NER,Niger,Oil,1
+441,1f081645bd0,NER,Niger,Solar,1
+442,1f081645bd0,NGA,Nigeria,Gas,1
+443,1f081645bd0,NGA,Nigeria,Solar,1
+444,1f081645bd0,NGA,Nigeria,Hydro,1
+445,1f081645bd0,PRK,North Korea,Hydro,1
+446,1f081645bd0,PRK,North Korea,Coal,1
+447,1f081645bd0,NOR,Norway,Hydro,1
+448,1f081645bd0,NOR,Norway,Wind,1
+449,1f081645bd0,NOR,Norway,Gas,1
+450,1f081645bd0,OMN,Oman,Gas,1
+451,1f081645bd0,OMN,Oman,Solar,1
+452,1f081645bd0,PAK,Pakistan,Oil,1
+453,1f081645bd0,PAK,Pakistan,Solar,1
+454,1f081645bd0,PAK,Pakistan,Gas,1
+455,1f081645bd0,PAK,Pakistan,Hydro,1
+456,1f081645bd0,PAK,Pakistan,Nuclear,1
+457,1f081645bd0,PAK,Pakistan,Wind,1
+458,1f081645bd0,PAK,Pakistan,Coal,1
+459,1f081645bd0,PSE,Palestine,Solar,1
+460,1f081645bd0,PAN,Panama,Oil,1
+461,1f081645bd0,PAN,Panama,Coal,1
+462,1f081645bd0,PAN,Panama,Hydro,1
+463,1f081645bd0,PAN,Panama,Gas,1
+464,1f081645bd0,PAN,Panama,Solar,1
+465,1f081645bd0,PNG,Papua New Guinea,Gas,1
+466,1f081645bd0,PNG,Papua New Guinea,Oil,1
+467,1f081645bd0,PNG,Papua New Guinea,Hydro,1
+468,1f081645bd0,PNG,Papua New Guinea,Geothermal,1
+469,1f081645bd0,PRY,Paraguay,Hydro,1
+470,1f081645bd0,PER,Peru,Gas,1
+471,1f081645bd0,PER,Peru,Hydro,1
+472,1f081645bd0,PER,Peru,Coal,1
+473,1f081645bd0,PER,Peru,Solar,1
+474,1f081645bd0,PER,Peru,Wind,1
+475,1f081645bd0,PHL,Philippines,Hydro,1
+476,1f081645bd0,PHL,Philippines,Coal,1
+477,1f081645bd0,PHL,Philippines,Solar,1
+478,1f081645bd0,PHL,Philippines,Gas,1
+479,1f081645bd0,PHL,Philippines,Geothermal,1
+480,1f081645bd0,PHL,Philippines,Oil,1
+481,1f081645bd0,PHL,Philippines,Wind,1
+482,1f081645bd0,PHL,Philippines,Biomass,1
+483,1f081645bd0,POL,Poland,Coal,1
+484,1f081645bd0,POL,Poland,Hydro,1
+485,1f081645bd0,POL,Poland,Gas,1
+486,1f081645bd0,POL,Poland,Oil,1
+487,1f081645bd0,POL,Poland,Biomass,1
+488,1f081645bd0,POL,Poland,Wind,1
+489,1f081645bd0,POL,Poland,Solar,1
+490,1f081645bd0,PRT,Portugal,Wind,1
+491,1f081645bd0,PRT,Portugal,Solar,1
+492,1f081645bd0,PRT,Portugal,Waste,1
+493,1f081645bd0,PRT,Portugal,Hydro,1
+494,1f081645bd0,PRT,Portugal,Biomass,1
+495,1f081645bd0,PRT,Portugal,Gas,1
+496,1f081645bd0,PRT,Portugal,Coal,1
+497,1f081645bd0,PRT,Portugal,Geothermal,1
+498,1f081645bd0,QAT,Qatar,Gas,1
+499,1f081645bd0,ROU,Romania,Solar,1
+500,1f081645bd0,ROU,Romania,Hydro,1
+501,1f081645bd0,ROU,Romania,Coal,1
+502,1f081645bd0,ROU,Romania,Nuclear,1
+503,1f081645bd0,ROU,Romania,Wind,1
+504,1f081645bd0,ROU,Romania,Gas,1
+505,1f081645bd0,RUS,Russia,Solar,1
+506,1f081645bd0,RUS,Russia,Gas,1
+507,1f081645bd0,RUS,Russia,Hydro,1
+508,1f081645bd0,RUS,Russia,Coal,1
+509,1f081645bd0,RUS,Russia,Nuclear,1
+510,1f081645bd0,RUS,Russia,Biomass,1
+511,1f081645bd0,RUS,Russia,Oil,1
+512,1f081645bd0,RUS,Russia,Other,1
+513,1f081645bd0,RUS,Russia,Geothermal,1
+514,1f081645bd0,RUS,Russia,Wind,1
+515,1f081645bd0,RWA,Rwanda,Waste,1
+516,1f081645bd0,RWA,Rwanda,Oil,1
+517,1f081645bd0,RWA,Rwanda,Gas,1
+518,1f081645bd0,RWA,Rwanda,Hydro,1
+519,1f081645bd0,RWA,Rwanda,Solar,1
+520,1f081645bd0,LCA,Saint Lucia,Solar,1
+521,1f081645bd0,SAU,Saudi Arabia,Gas,1
+522,1f081645bd0,SAU,Saudi Arabia,Oil,1
+523,1f081645bd0,SAU,Saudi Arabia,Solar,1
+524,1f081645bd0,SEN,Senegal,Oil,1
+525,1f081645bd0,SEN,Senegal,Solar,1
+526,1f081645bd0,SEN,Senegal,Hydro,1
+527,1f081645bd0,SRB,Serbia,Hydro,1
+528,1f081645bd0,SRB,Serbia,Coal,1
+529,1f081645bd0,SLE,Sierra Leone,Oil,1
+530,1f081645bd0,SLE,Sierra Leone,Hydro,1
+531,1f081645bd0,SGP,Singapore,Gas,1
+532,1f081645bd0,SGP,Singapore,Waste,1
+533,1f081645bd0,SGP,Singapore,Oil,1
+534,1f081645bd0,SVK,Slovakia,Solar,1
+535,1f081645bd0,SVK,Slovakia,Nuclear,1
+536,1f081645bd0,SVK,Slovakia,Hydro,1
+537,1f081645bd0,SVK,Slovakia,Gas,1
+538,1f081645bd0,SVK,Slovakia,Coal,1
+539,1f081645bd0,SVN,Slovenia,Gas,1
+540,1f081645bd0,SVN,Slovenia,Coal,1
+541,1f081645bd0,SVN,Slovenia,Hydro,1
+542,1f081645bd0,SVN,Slovenia,Nuclear,1
+543,1f081645bd0,ZAF,South Africa,Gas,1
+544,1f081645bd0,ZAF,South Africa,Solar,1
+545,1f081645bd0,ZAF,South Africa,Wind,1
+546,1f081645bd0,ZAF,South Africa,Oil,1
+547,1f081645bd0,ZAF,South Africa,Coal,1
+548,1f081645bd0,ZAF,South Africa,Hydro,1
+549,1f081645bd0,ZAF,South Africa,Waste,1
+550,1f081645bd0,ZAF,South Africa,Biomass,1
+551,1f081645bd0,ZAF,South Africa,Nuclear,1
+552,1f081645bd0,KOR,South Korea,Hydro,1
+553,1f081645bd0,KOR,South Korea,Gas,1
+554,1f081645bd0,KOR,South Korea,Solar,1
+555,1f081645bd0,KOR,South Korea,Coal,1
+556,1f081645bd0,KOR,South Korea,Biomass,1
+557,1f081645bd0,KOR,South Korea,Wind,1
+558,1f081645bd0,KOR,South Korea,Waste,1
+559,1f081645bd0,KOR,South Korea,Nuclear,1
+560,1f081645bd0,KOR,South Korea,Oil,1
+561,1f081645bd0,KOR,South Korea,Wave and Tidal,1
+562,1f081645bd0,ESP,Spain,Coal,1
+563,1f081645bd0,ESP,Spain,Gas,1
+564,1f081645bd0,ESP,Spain,Waste,1
+565,1f081645bd0,ESP,Spain,Wind,1
+566,1f081645bd0,ESP,Spain,Biomass,1
+567,1f081645bd0,ESP,Spain,Hydro,1
+568,1f081645bd0,ESP,Spain,Solar,1
+569,1f081645bd0,ESP,Spain,Oil,1
+570,1f081645bd0,ESP,Spain,Nuclear,1
+571,1f081645bd0,LKA,Sri Lanka,Wind,1
+572,1f081645bd0,LKA,Sri Lanka,Oil,1
+573,1f081645bd0,LKA,Sri Lanka,Hydro,1
+574,1f081645bd0,LKA,Sri Lanka,Solar,1
+575,1f081645bd0,LKA,Sri Lanka,Coal,1
+576,1f081645bd0,SDN,Sudan,Oil,1
+577,1f081645bd0,SDN,Sudan,Gas,1
+578,1f081645bd0,SDN,Sudan,Hydro,1
+579,1f081645bd0,SDN,Sudan,Biomass,1
+580,1f081645bd0,SUR,Suriname,Solar,1
+581,1f081645bd0,SWZ,Swaziland,Hydro,1
+582,1f081645bd0,SWZ,Swaziland,Biomass,1
+583,1f081645bd0,SWE,Sweden,Hydro,1
+584,1f081645bd0,SWE,Sweden,Biomass,1
+585,1f081645bd0,SWE,Sweden,Wind,1
+586,1f081645bd0,SWE,Sweden,Nuclear,1
+587,1f081645bd0,SWE,Sweden,Gas,1
+588,1f081645bd0,SWE,Sweden,Oil,1
+589,1f081645bd0,SWE,Sweden,Coal,1
+590,1f081645bd0,CHE,Switzerland,Hydro,1
+591,1f081645bd0,CHE,Switzerland,Solar,1
+592,1f081645bd0,CHE,Switzerland,Nuclear,1
+593,1f081645bd0,SYR,Syrian Arab Republic,Gas,1
+594,1f081645bd0,SYR,Syrian Arab Republic,Oil,1
+595,1f081645bd0,SYR,Syrian Arab Republic,Hydro,1
+596,1f081645bd0,TWN,Taiwan,Wind,1
+597,1f081645bd0,TWN,Taiwan,Solar,1
+598,1f081645bd0,TWN,Taiwan,Coal,1
+599,1f081645bd0,TWN,Taiwan,Gas,1
+600,1f081645bd0,TWN,Taiwan,Nuclear,1
+601,1f081645bd0,TWN,Taiwan,Hydro,1
+602,1f081645bd0,TWN,Taiwan,Oil,1
+603,1f081645bd0,TJK,Tajikistan,Hydro,1
+604,1f081645bd0,TJK,Tajikistan,Oil,1
+605,1f081645bd0,TZA,Tanzania,Hydro,1
+606,1f081645bd0,TZA,Tanzania,Oil,1
+607,1f081645bd0,TZA,Tanzania,Gas,1
+608,1f081645bd0,THA,Thailand,Solar,1
+609,1f081645bd0,THA,Thailand,Gas,1
+610,1f081645bd0,THA,Thailand,Coal,1
+611,1f081645bd0,THA,Thailand,Hydro,1
+612,1f081645bd0,THA,Thailand,Wind,1
+613,1f081645bd0,THA,Thailand,Biomass,1
+614,1f081645bd0,TGO,Togo,Oil,1
+615,1f081645bd0,TGO,Togo,Hydro,1
+616,1f081645bd0,TGO,Togo,Gas,1
+617,1f081645bd0,TTO,Trinidad and Tobago,Gas,1
+618,1f081645bd0,TTO,Trinidad and Tobago,Oil,1
+619,1f081645bd0,TUN,Tunisia,Hydro,1
+620,1f081645bd0,TUN,Tunisia,Gas,1
+621,1f081645bd0,TUN,Tunisia,Wind,1
+622,1f081645bd0,TUR,Turkey,Solar,1
+623,1f081645bd0,TUR,Turkey,Coal,1
+624,1f081645bd0,TUR,Turkey,Gas,1
+625,1f081645bd0,TUR,Turkey,Geothermal,1
+626,1f081645bd0,TUR,Turkey,Hydro,1
+627,1f081645bd0,TUR,Turkey,Wind,1
+628,1f081645bd0,TUR,Turkey,Oil,1
+629,1f081645bd0,TKM,Turkmenistan,Gas,1
+630,1f081645bd0,TKM,Turkmenistan,Oil,1
+631,1f081645bd0,UGA,Uganda,Hydro,1
+632,1f081645bd0,UGA,Uganda,Solar,1
+633,1f081645bd0,UGA,Uganda,Biomass,1
+634,1f081645bd0,UGA,Uganda,Oil,1
+635,1f081645bd0,UKR,Ukraine,Solar,1
+636,1f081645bd0,UKR,Ukraine,Coal,1
+637,1f081645bd0,UKR,Ukraine,Hydro,1
+638,1f081645bd0,UKR,Ukraine,Gas,1
+639,1f081645bd0,UKR,Ukraine,Nuclear,1
+640,1f081645bd0,ARE,United Arab Emirates,Gas,1
+641,1f081645bd0,ARE,United Arab Emirates,Solar,1
+642,1f081645bd0,GBR,United Kingdom,Biomass,1
+643,1f081645bd0,GBR,United Kingdom,Solar,1
+644,1f081645bd0,GBR,United Kingdom,Wind,1
+645,1f081645bd0,GBR,United Kingdom,Coal,1
+646,1f081645bd0,GBR,United Kingdom,Gas,1
+647,1f081645bd0,GBR,United Kingdom,Hydro,1
+648,1f081645bd0,GBR,United Kingdom,Waste,1
+649,1f081645bd0,GBR,United Kingdom,Storage,1
+650,1f081645bd0,GBR,United Kingdom,Oil,1
+651,1f081645bd0,GBR,United Kingdom,Nuclear,1
+652,1f081645bd0,GBR,United Kingdom,Wave and Tidal,1
+653,1f081645bd0,GBR,United Kingdom,Cogeneration,1
+654,1f081645bd0,USA,United States of America,Solar,1
+655,1f081645bd0,USA,United States of America,Gas,1
+656,1f081645bd0,USA,United States of America,Oil,1
+657,1f081645bd0,USA,United States of America,Hydro,1
+658,1f081645bd0,USA,United States of America,Wind,1
+659,1f081645bd0,USA,United States of America,Coal,1
+660,1f081645bd0,USA,United States of America,Biomass,1
+661,1f081645bd0,USA,United States of America,Waste,1
+662,1f081645bd0,USA,United States of America,Storage,1
+663,1f081645bd0,USA,United States of America,Cogeneration,1
+664,1f081645bd0,USA,United States of America,Geothermal,1
+665,1f081645bd0,USA,United States of America,Petcoke,1
+666,1f081645bd0,USA,United States of America,Nuclear,1
+667,1f081645bd0,USA,United States of America,Other,1
+668,1f081645bd0,URY,Uruguay,Solar,1
+669,1f081645bd0,URY,Uruguay,Biomass,1
+670,1f081645bd0,URY,Uruguay,Wind,1
+671,1f081645bd0,URY,Uruguay,Hydro,1
+672,1f081645bd0,URY,Uruguay,Gas,1
+673,1f081645bd0,URY,Uruguay,Oil,1
+674,1f081645bd0,UZB,Uzbekistan,Hydro,1
+675,1f081645bd0,UZB,Uzbekistan,Coal,1
+676,1f081645bd0,UZB,Uzbekistan,Oil,1
+677,1f081645bd0,UZB,Uzbekistan,Gas,1
+678,1f081645bd0,UZB,Uzbekistan,Solar,1
+679,1f081645bd0,VEN,Venezuela,Gas,1
+680,1f081645bd0,VEN,Venezuela,Hydro,1
+681,1f081645bd0,VNM,Vietnam,Hydro,1
+682,1f081645bd0,VNM,Vietnam,Oil,1
+683,1f081645bd0,VNM,Vietnam,Coal,1
+684,1f081645bd0,VNM,Vietnam,Gas,1
+685,1f081645bd0,VNM,Vietnam,Wind,1
+686,1f081645bd0,VNM,Vietnam,Solar,1
+687,1f081645bd0,VNM,Vietnam,Biomass,1
+688,1f081645bd0,ESH,Western Sahara,Oil,1
+689,1f081645bd0,YEM,Yemen,Oil,1
+690,1f081645bd0,YEM,Yemen,Gas,1
+691,1f081645bd0,ZMB,Zambia,Oil,1
+692,1f081645bd0,ZMB,Zambia,Hydro,1
+693,1f081645bd0,ZMB,Zambia,Solar,1
+694,1f081645bd0,ZMB,Zambia,Coal,1
+695,1f081645bd0,ZMB,Zambia,Biomass,1
+696,1f081645bd0,ZWE,Zimbabwe,Coal,1
+697,1f081645bd0,ZWE,Zimbabwe,Hydro,1
