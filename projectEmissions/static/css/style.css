@@ -1,3 +1,139 @@
-*{
-    background-color: rgb(128, 128, 128);
+* {
+    background-color: rgba(255, 255, 255, 0.747);
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    z-index: 1;
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.055);
+    height: 8vh;
+    width: 100%;
+    display: grid;
+    align-items: center;
+    grid-template-columns: 50% 50%;
+}
+header .title{
+    margin: auto;
+}
+header .header__main{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.main__container {
+    /* background-color: aqua; */
+    height: 92vh;
+    width: 100vw;
+}
+
+.aside {
+    position: fixed;
+    height: 92vh;
+    width: 120px;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.055);
+    transform: translate(0, -84vh);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.aright1 {
+    margin-top: 80px;
+    width: 80px;
+    cursor: pointer;
+    background-color: rgb(122, 112, 146);
+}
+.aright2 {
+    margin-top: 50px;
+    width: 80px;
+    height: 150px;
+    background-color: rgb(122, 112, 146);
+}
+
+.aside__right,
+.aside__left {
+    position: fixed;
+    height: 92vh;
+    display: flex;
+    flex-direction: row;
+    transition: 400ms cubic-bezier(0.785, 0.135, 0.15, 0.86);
+}
+
+.aside__right { 
+    background-color: rgb(22, 23, 24);
+    width: 78vw;
+    transform: translate(99vw, -84vh);
+}
+
+.move__right {
+    transform: translate(22vw, -84vh);
+}
+
+.aside__left {
+    background-color: rgb(22, 23, 24);
+    width: 22vw;
+    transform: translate(-22vw, -84vh);
+}
+
+.move__left {
+    transform: translate(0, -84vh);
+}
+
+
+
+@media (max-width: 768px) {
+
+
+    header {
+        z-index: 1;
+        background-color: bisque;
+        height: 8vh;
+        width: 100vw;
+    }
+
+    .main__container {
+        background-color: aqua;
+        height: 84vh;
+        width: 100vw;
+    }
+
+    .aside {
+        background-color: rgb(122, 112, 146);
+        height: 8vh;
+        width: 100vw;
+        transform: translate(0,0);
+    }
+
+    .aside__right {
+        background-color: rgb(248, 45, 45);
+        width: 100vw;
+        height: 84vh;
+        transform: translate(95vw, -84vh);
+    }
+
+    .move__right {
+        transform: translate(0, -84vh);
+    }
+
+    .aside__left {
+        background-color: rgb(51, 240, 199);
+        width: 100vw;
+        height: 20vh;
+        transform: translate(0, 8vh);
+    }
+
+    .move__left {
+        transform: translate(0, -12vh);
+    }
 }
