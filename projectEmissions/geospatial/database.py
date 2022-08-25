@@ -8,16 +8,19 @@ file = (os.path.join(BASE_DIR.parent,'config.ini'),)
 config = ConfigParser()
 config.read(file)
 
-USER_BASE = config['database']['user']
-PASSWORD_BASE = config['database']['passw']
-DATABASE = config['database']['db']
-PORT = config['database']['port']
-HOST = config['database']['host']
-
-def db_connection():
-    
-    create_connection = f'postgresql+psycopg2://{USER_BASE}:{PASSWORD_BASE}@{HOST}:{PORT}/{DATABASE}'
+def db_connection(user,passw,db,port,host):    
+    create_connection = f'postgresql+psycopg2://{user}:{passw}@{host}:{port}/{db}'
     connection = create_engine(create_connection)
     return connection
 
+def get_connection():
+    return db_connection(config['database']['user'],
+                        config['database']['passw'],
+                        config['database']['db'],
+                        config['database']['port'],
+                        config['database']['host'])
 
+def read_db_table(name:str):
+    import pandas as pd
+    df = pd.read_sql(sql=name,con =get_connection())
+    return df
