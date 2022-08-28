@@ -4,4 +4,11 @@ virtualenv
 virtualpython
 config.ini
 AWS.txt
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
 prueba.ipynb
+>>>>>>> eb6389087fc2540bfc942dc4efba822ab206e992
+=======
+prueba.ipynb
+>>>>>>> eb6389087fc2540bfc942dc4efba822ab206e992
