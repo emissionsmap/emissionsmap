@@ -3,14 +3,14 @@ import os
 from configparser import ConfigParser
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-file = (os.path.join(BASE_DIR.parent,'config.ini'),)
-config = ConfigParser()
-config.read(file)
+#file = (os.path.join(BASE_DIR.parent,'config.ini'),)
+#config = ConfigParser()
+#config.read(file)
 
-SECRET_KEY = config['django']['SECRET_KEY']
-DEBUG = config['django']['DEBUG']
-# SECRET_KEY = 'django-insecure-z)pu&dn#jsfd=i($pugxau#iu(yd4qhybt#tr$!*ci^t-30nmq'
-# DEBUG = True
+#SECRET_KEY = config['django']['SECRET_KEY']
+#DEBUG = config['django']['DEBUG']
+SECRET_KEY = 'django-insecure-z)pu&dn#jsfd=i($pugxau#iu(yd4qhybt#tr$!*ci^t-30nmq'
+DEBUG = True
 ALLOWED_HOSTS = ['*']
 
 
