@@ -10,7 +10,12 @@ click__left__close.addEventListener('click',()=>{
 })
 
 const aside__right = document.querySelector('.aside__right')
-const click__right = document.querySelector('#click__right')
-click__right.addEventListener('click',()=>{
-    aside__right.classList.toggle('move__right')
+const click__right__open = document.querySelector('#click__right__open')
+const click__right__close = document.querySelector('#click__right__close')
+
+click__right__open.addEventListener('click',()=>{
+    aside__right.classList.add('move__right')
+})
+click__right__close.addEventListener('click',()=>{
+    aside__right.classList.remove('move__right')
 })

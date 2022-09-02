@@ -1,0 +1,105 @@
+,Atributo,Descripción,Obligación /Condición,Tipo de dato,Ejemplo,Entidad
+0,Año,Año del dato,Indexado, Texto(TEXT),2022,tabla_hecho
+1,País,Nombre del País en inglés,Indexado, Texto(TEXT),Afghanistan,tabla_hecho
+2,Combustible,Tipo de combustible.,Indexado, Texto(TEXT),Geothermal,tabla_hecho
+3,Continente,Contiente al que pertenece el país.,Indexado, Texto(TEXT),Africa,tabla_hecho
+4,Id_Año,Código obtenido mediante funcion hash aplicada al año de la emisión.,Clave Primaria, Texto(TEXT),e4dd5528f7596dcdf871aa55cfccc53c,tabla_hecho
+5,Id_País,Código obtenido mediante funcion hash aplicada al país de la emisión.,Clave Primaria, Texto(TEXT),f5a7924e621e84c9280a9a27e1bcb7f6,tabla_hecho
+6,Id_Combustible,Código obtenido mediante funcion hash aplicada a la fuente de emisión del CO2.,Indexado, Texto(TEXT),57a34c10edc9db4cc4fbfc06367285f8,tabla_hecho
+7,Id_Continente,Código obtenido mediante funcion hash aplicada al continente emisor del CO2.,Indexado, Texto(TEXT),f5cd262901883dff68d06b215fb0f28e,tabla_hecho
+8,tabla_hecho_gases_normalizados_Id_Año,Código proveniente de  tabla_hecho_gases_normalizados obtenido mediante funcion hash aplicada al año de la emisión.,Clave Foránea , Texto(TEXT),e4dd5528f7596dcdf871aa55cfccc53c,tabla_hecho
+9,País,Nombre del País en inglés,Indexado, Texto(TEXT),Afghanistan,sub_energy
+10,Código,Código corto alfabético que representar a los países.,Indexado, Texto(TEXT),AFG,sub_energy
+11,Año,Año del dato,Indexado, Texto(TEXT),2022,sub_energy
+12,Combustibles Fósiles (% Energía Primaria Equivalente),Porcentaje que representan los  combustibles fósiles en la demanda de energía primaria.,Indexado,DOUBLE ,93.87793,sub_energy
+13,Renovables (% Energía Primaria Equivalente),Porcentaje que representan los  combustibles de fuente renovable en la demanda de energía primaria.,Indexado,DOUBLE ,6.122062,sub_energy
+14,Nuclear (% Energía Primaria Equivalente),Porcentaje que representan los  combustibles de fuente nuclear en la demanda de energía primaria.,Indexado,DOUBLE ,12.36,sub_energy
+15,Id_Año,Código obtenido mediante funcion hash aplicada al año de la emisión.,Clave Primaria, Texto(TEXT),e4dd5528f7596dcdf871aa55cfccc53c,sub_energy
+16,Id_País,Código obtenido mediante funcion hash aplicada al país de la emisión.,Indexado, Texto(TEXT),f5a7924e621e84c9280a9a27e1bcb7f6,sub_energy
+17,tabla_hecho_Id_Año,Código proveniente de  tabla_hecho  obtenido mediante funcion hash aplicada al año de la emisión.,Clave Foránea , Texto(TEXT),e4dd5528f7596dcdf871aa55cfccc53c,sub_energy
+18,tabla_hecho_Id_País,Código proveniente de  tabla_hecho  obtenido mediante funcion hash aplicada al país de la emisión.,Clave Foránea , Texto(TEXT),f5a7924e621e84c9280a9a27e1bcb7f6,sub_energy
+19,tabla_hecho_gases_normalizados_Id_Año,Código proveniente de  tabla_hecho_gases_normalizados obtenido mediante funcion hash aplicada al año de la emisión.,Clave Foránea , Texto(TEXT),e4dd5528f7596dcdf871aa55cfccc53c,sub_energy
+20,País,Nombre del País en inglés,Indexado, Texto(TEXT),Afghanistan,historical_emission_normal
+21,Fuente De Datos,Fuente de obtención de la información,Indexado, Texto(TEXT),CAIT,historical_emission_normal
+22,Sector,Fuente a la que pertenecen las emisiones.,Indexado, Texto(TEXT),Total including LUCF,historical_emission_normal
+23,Gas,Tipo de gas de las emisiones.,Indexado, Texto(TEXT),All GHG,historical_emission_normal
+24,Unidad ,Unidad de medición en megatoneladas de CO2 equivalente (MtCO2eq),Indexado, Texto(TEXT),MtCO₂e,historical_emission_normal
+25,1990 al 2020,Columnas una por cada año.,Indexado,DOUBLE,1990,historical_emission_normal
+26,Id_País,Código obtenido mediante funcion hash aplicada al país de la emisión.,Indexado, Texto(TEXT),f5a7924e621e84c9280a9a27e1bcb7f6,historical_emission_normal
+27,tabla_hecho_Id_Año,Código proveniente de  tabla_hecho  obtenido mediante funcion hash aplicada al año de la emisión.,Clave Foránea , Texto(TEXT),e4dd5528f7596dcdf871aa55cfccc53c,historical_emission_normal
+28,País,Nombre del País en inglés,Indexado, Texto(TEXT),Afghanistan,primary_sub_normal
+29,Código,Código corto alfabético que representar a los países.,Indexado, Texto(TEXT),AFG,primary_sub_normal
+30,Año,Año del dato,Indexado, Texto(TEXT),2022,primary_sub_normal
+31,Consumo Eólico - Twh,Consumo proveniente de fuentes de energía eólica en TWh (Teravatio/hora),Indexado,DOUBLE ,323.496124,primary_sub_normal
+32,Consumo Hidroeléctrico - Twh,Consumo proveniente de fuentes de energía hidroeléctrica en TWh (Teravatio/hora),Indexado,DOUBLE ,145.496124,primary_sub_normal
+33,Consumo Solar - Twh,Consumo proveniente de fuentes de energía solar en TWh (Teravatio/hora),Indexado,DOUBLE ,223.496124,primary_sub_normal
+34,Consumo Nuclear - Twh,Consumo proveniente de fuentes de energía nuclear en TWh (Teravatio/hora),Indexado,DOUBLE ,65.496124,primary_sub_normal
+35,Consumo De Biocombustibles - Twh,Consumo proveniente de fuentes de biocombustibles en TWh (Teravatio/hora),Indexado,DOUBLE ,53.496124,primary_sub_normal
+36,Geo Biomasa Otros - Twh,Consumo proveniente proveniente de biomasa en TWh (Teravatio/hora),Indexado,DOUBLE ,93.496124,primary_sub_normal
+37,Consumo De Carbón - Twh,Consumo proveniente de fuentes de carbón en TWh (Teravatio/hora),Indexado,DOUBLE ,323.496124,primary_sub_normal
+38,Consumo De Aceite - Twh,Consumo proveniente de fuentes de biocombustibles en TWh (Teravatio/hora),Indexado,DOUBLE ,83.496124,primary_sub_normal
+39,Consumo De Gas - Twh,Consumo proveniente de fuentes de biocombustibles en TWh (Teravatio/hora),Indexado,DOUBLE ,113.496124,primary_sub_normal
+40,Id_País,Código obtenido mediante funcion hash aplicada al país de la emisión.,Clave Primaria, Texto(TEXT),f5a7924e621e84c9280a9a27e1bcb7f6,primary_sub_normal
+41,Id_Año,Código obtenido mediante funcion hash aplicada al año de la emisión.,Clave Primaria, Texto(TEXT),e4dd5528f7596dcdf871aa55cfccc53c,primary_sub_normal
+42,tabla_hecho_Id_Año,Código proveniente de  tabla_hecho  obtenido mediante funcion hash aplicada al año de la emisión.,Clave Foránea , Texto(TEXT),e4dd5528f7596dcdf871aa55cfccc53c,primary_sub_normal
+43,tabla_hecho_Id_País,Código proveniente de  tabla_hecho  obtenido mediante funcion hash aplicada al país de la emisión.,Clave Foránea , Texto(TEXT),f5a7924e621e84c9280a9a27e1bcb7f6,primary_sub_normal
+44,tabla_hecho_gases_normalizados_Id_Año,Código proveniente de  tabla_hecho_gases_normalizados obtenido mediante funcion hash aplicada al año de la emisión.,Clave Foránea , Texto(TEXT),e4dd5528f7596dcdf871aa55cfccc53c,primary_sub_normal
+45,País,Nombre del País en inglés,Indexado, Texto(TEXT),Afghanistan,energyco2
+46,Combustible,Tipo de combustible,Indexado, Texto(TEXT),Coal,energyco2
+47,Año,Año del dato,Indexado, Texto(TEXT),2022,energyco2
+48,Consumo De Energía,Consumo total de energía en el país en TWh (Teravatio/hora),Indexado,DOUBLE ,292.8769,energyco2
+49,Producción de Energía,Producción total de energía en el país en TWh (Teravatio/hora),Indexado,DOUBLE ,521.8769,energyco2
+50,PiB,Producto interno bruto es el valor total de la corriente de bienes y servicios finales.,Indexado,DOUBLE ,27770.91,energyco2
+51,Población,Cantidad de habitantes de un territorio.,Indexado,DOUBLE ,4298127000000,energyco2
+52,Intensidad_Energética_per_cápita,Es el cociente entre el consumo energético y los habitantes.,Indexado,DOUBLE ,68.496124,energyco2
+53,Intensidad_Energética_per_PiB,Es el cociente entre el consumo energético y el PiB.,Indexado,DOUBLE ,10541.496124,energyco2
+54,Emisión de CO2,Emisión total de CO2 del país.,Indexado,DOUBLE ,323.496124,energyco2
+55,Consumo De Energía - Twh,Consumo total  de energía del país en Teravatio/hora.,Indexado,DOUBLE ,323.496124,energyco2
+56,Produción De Energía - Twh,Producción total  de energía del país en Teravatio/hora.,Indexado,DOUBLE ,323.496124,energyco2
+57,Intensidad_Energética_per_Cápita TWh,"Es el cociente entre el consumo energético y los habitantes, medido en Teravatio/hora",Indexado,DOUBLE ,11.59,energyco2
+58,Intensidad_Energética_per_PiB TWh,"Es el cociente entre el consumo energético y el PiB, medido en Teravatio/hora",Indexado,DOUBLE ,11.59,energyco2
+59,Id_País,Código obtenido mediante funcion hash aplicada al país de la emisión.,Clave Primaria, Texto(TEXT),f5a7924e621e84c9280a9a27e1bcb7f6,energyco2
+60,Id_Año,Código obtenido mediante funcion hash aplicada al año de la emisión.,Indexado, Texto(TEXT),e4dd5528f7596dcdf871aa55cfccc53c,energyco2
+61,Id_Combustible,Código obtenido mediante funcion hash aplicada al tipo de combustible empleado.,Indexado, Texto(TEXT),cc8cc099b05d2c44e441a5443da94571,energyco2
+62,tabla_hecho_Id_Año,Código proveniente de  tabla_hecho  obtenido mediante funcion hash aplicada al año de la emisión.,Clave Foránea , Texto(TEXT),e4dd5528f7596dcdf871aa55cfccc53c,energyco2
+63,tabla_hecho_Id_País,Código proveniente de  tabla_hecho  obtenido mediante funcion hash aplicada al país de la emisión.,Clave Foránea , Texto(TEXT),f5a7924e621e84c9280a9a27e1bcb7f6,energyco2
+64,tabla_hecho_gases_normalizados_Id_Año,Código proveniente de  tabla_hecho_gases_normalizados obtenido mediante funcion hash aplicada al año de la emisión.,Clave Foránea , Texto(TEXT),e4dd5528f7596dcdf871aa55cfccc53c,energyco2
+65,Id_País,Código obtenido mediante funcion hash aplicada al país de la emisión.,Clave Primaria, Texto(TEXT),f5a7924e621e84c9280a9a27e1bcb7f6,partic_global_energy
+66,Código,Nombre del País en inglés,Indexado, Texto(TEXT),AFG,partic_global_energy
+67,País,Nombre del País en inglés,Indexado, Texto(TEXT),Afghanistan,partic_global_energy
+68,Combustible,Tipo de combustible,Indexado, Texto(TEXT),Hydro,partic_global_energy
+69,cant,Cantidad total.,Indexado,BIGINT,1,partic_global_energy
+70,Percentage,Porcentaje del total de energía global.,Indexado, Texto(TEXT),0.143266,partic_global_energy
+71,tabla_hecho_Id_Año,Código proveniente de  tabla_hecho  obtenido mediante funcion hash aplicada al año de la emisión.,Clave Foránea , Texto(TEXT),e4dd5528f7596dcdf871aa55cfccc53c,partic_global_energy
+72,tabla_hecho_Id_País,Código proveniente de  tabla_hecho  obtenido mediante funcion hash aplicada al país de la emisión.,Clave Foránea , Texto(TEXT),f5a7924e621e84c9280a9a27e1bcb7f6,partic_global_energy
+73,tabla_hecho_gases_normalizados_Id_Año,Código proveniente de  tabla_hecho_gases_normalizados obtenido mediante funcion hash aplicada al año de la emisión.,Clave Foránea , Texto(TEXT),e4dd5528f7596dcdf871aa55cfccc53c,partic_global_energy
+74,Año,Año del dato,Indexado,BIGINT,2022,gases
+75,Media N2O,Producción media anual de  óxido nitroso por pais en ppb (partes por billón).,Indexado,DOUBLE,293.56,gases
+76,Media Sf6,Producción media anual de  Hexafluoruro de azufre por año en ppb (partes por billón).,Indexado,DOUBLE,9.64,gases
+77,Media CO2,Producción media anual de  dióxido de carbono por año en ppm (partes por millón).,Indexado,DOUBLE,334.31,gases
+78,Id_Año,Código obtenido mediante funcion hash aplicada al año de la emisión.,Clave Primaria, Texto(TEXT),e4dd5528f7596dcdf871aa55cfccc53c,gases
+79,Año,Año del dato,Indexado,BIGINT,2022,huella_sostenible_por_pais
+80,Población,Población a nivel mundial,Indexado,DOUBLE,45.52,huella_sostenible_por_pais
+81,Biocapacidad PerCap,Representa la disponibilidad de superficie biológicamente productiva por habitante.  Unidad: gha/persona (1 gha es la capacidad productiva de 1 ha de tierra de producción media mundial),Indexado,DOUBLE,1.52,huella_sostenible_por_pais
+82,Huella Ecologica PerCap,Total de superficie ecológicamente productiva para producir los recursos consumidos por un habitante y los residuos que genera.  Unidad hgpc (hectárea global per cápita: la capacidad productiva de 1 ha de tierra de producción media mundial),Indexado,DOUBLE,2.28,huella_sostenible_por_pais
+83,Tierra,Cociente  entre (huella ecologica/biocapacidad) define la cantidad de  planetas Tierra que se necesita para sustentar a la población.,Indexado,DOUBLE,1.8,huella_sostenible_por_pais
+84,Id_Año,Código obtenido mediante funcion hash aplicada al año de la emisión.,Clave Primaria, Texto(TEXT),e4dd5528f7596dcdf871aa55cfccc53c,huella_sostenible_por_pais
+85,Año,Año del dato,Indexado,BIGINT,2022,huella_biocapacidad
+86,Población,Población a nivel mundial,Indexado,DOUBLE,7631090176,huella_biocapacidad
+87,Biocapacidad PerCap,Representa la disponibilidad de superficie biológicamente productiva por habitante.  Unidad: gha/persona (1 gha es la capacidad productiva de 1 ha de tierra de producción media mundial),Indexado,DOUBLE,1.52,huella_biocapacidad
+88,Huella Ecologica PerCap,Total de superficie ecológicamente productiva para producir los recursos consumidos por un habitante y los residuos que genera.  Unidad hgpc (hectárea global per cápita: la capacidad productiva de 1 ha de tierra de producción media mundial),Indexado,DOUBLE,2.28,huella_biocapacidad
+89,Tierra,Cociente  entre (huella ecologica/biocapacidad) define la cantidad de  planetas Tierra que se necesita para sustentar a la población.,Indexado,DOUBLE,1.8,huella_biocapacidad
+90,Id_Año,Código obtenido mediante funcion hash aplicada al año de la emisión.,Clave Primaria, Texto(TEXT),e4dd5528f7596dcdf871aa55cfccc53c,huella_biocapacidad
+91,País,Nombre del País en inglés,Indexado, Texto(TEXT),Afghanistan,huella_biocapacidad
+92,Indice Objetivos de Desarrollo Sostenible(ODSi),"Clasifica los países sobre la base de 17 ODS individuales,  indica la posición del país entre los casos peor (0) y mejor (100).",Indexado,DOUBLE,58.3,huella_biocapacidad
+93,Expectativa de vida.,Es la media de la cantidad de años que vive una determinada población absoluta o total en un cierto período.,Indexado,INT,77,huella_biocapacidad
+94,Indice de Desarrollo Humano (HDI),"El Índice de Desarrollo Humano (IDH) es una medida resumida del logro promedio en dimensiones clave del desarrollo humano: una vida larga y saludable, estar bien informado y tener un nivel de vida decente(entre 0,1 y 1,0).",Indexado,DOUBLE,0.75,huella_biocapacidad
+95,PiB Per Capita,Mide la producción económica de una nación por persona determinando su prosperidad.,Indexado,DOUBLE,91608.03,huella_biocapacidad
+96,Grupo de Ingresos,"El Banco Mundial asigna las economías del mundo a cuatro grupos de ingresos: países de ingresos bajos, medios-bajos, medianos-altos y de ingresos altos.",Indexado,Texto(TEXT),Ingresos Altos,huella_biocapacidad
+97,Población,Cantidad de habitantes de un territorio.,Indexado,DOUBLE ,4298127000000,huella_biocapacidad
+98,Huella de Carbono,La huella de carbono representa el volumen total de gases de efecto invernadero (GEI) que producen las actividades económicas y cotidianas del ser humano pasada por equivalencia a hg (hectárea global),Indexado,DOUBLE ,2.7,huella_biocapacidad
+99,Huella Ecológica,"Total de superficie ecológicamente productiva para producir los recursos consumidos por un pais y los residuos que genera.  Unidad hg (hectárea global)
+",Indexado,DOUBLE ,2.7,huella_biocapacidad
+100,Biocapacidad ,Representa la disponibilidad de superficie biológicamente productiva del país.,Indexado,DOUBLE,2.8,huella_biocapacidad
+101,Tierra,Cociente  entre (huella ecologica/biocapacidad) define la cantidad de  planetas Tierra que se necesita para sustentar a la población.,Indexado,DOUBLE,1.8,huella_biocapacidad
+102,Id_País,Código obtenido mediante funcion hash aplicada al país de la emisión.,Clave Primaria, Texto(TEXT),e4dd5528f7596dcdf871aa55cfccc53c,huella_biocapacidad
