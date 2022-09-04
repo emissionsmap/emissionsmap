@@ -4,15 +4,8 @@ virtualenv
 virtualpython
 config.ini
 AWS.txt
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 prueba.ipynb
->>>>>>> eb6389087fc2540bfc942dc4efba822ab206e992
-=======
-prueba.ipynb
->>>>>>> eb6389087fc2540bfc942dc4efba822ab206e992
-<<<<<<< HEAD
+
 
 requirementes_windows.txt
 main.py
@@ -21,11 +14,5 @@ world.geojson
 agus.py
 venv
 Analisis_greaficos.ipynb
-.gitignore
-=======
 env
 requirementes_windows.txt
-world.geojson
-co.csv
-settings.py
->>>>>>> 145b883c6392429fde28a1fe9af296bd10833fd0
